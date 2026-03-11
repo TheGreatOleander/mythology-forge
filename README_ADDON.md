@@ -1,3 +1,1 @@
-# Mythology Forge v0.6 — Shorts Automation
-
-Adds a simple shorts bundle generator so short-form assets are explicit outputs.
+Forge handoff now archives output/media_bundle after successful handoff.
