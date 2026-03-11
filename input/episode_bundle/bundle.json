@@ -1,8 +1,8 @@
 {
   "bundle_version": "1.0",
-  "project": "Mythology Engine",
-  "episode_id": "ep_0001",
-  "title": "The Origin of the Impossible Map",
+  "project": "mythology-engine",
+  "episode_id": "engine_run",
+  "title": "The Origin of the Impossible Map \u2014 Historians Can't Explain This",
   "topic": "The Origin of the Impossible Map",
   "paths": {
     "script": "script.txt",

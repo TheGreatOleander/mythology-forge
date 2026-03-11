@@ -1,10 +1,9 @@
 {
-  "hook": "A map was found where no map should exist.",
+  "hook": "Historians can't explain this",
   "beats": [
-    "introduce impossible discovery",
-    "show archive location",
-    "focus on sigils",
-    "raise origin question"
+    "intro",
+    "investigation",
+    "reveal"
   ],
-  "target_duration_sec": 180
+  "target_duration_sec": 60
 }

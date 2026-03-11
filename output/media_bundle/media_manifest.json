@@ -1,51 +1,12 @@
 {
   "bundle_version": "1.0",
-  "source_episode_id": "ep_0001",
+  "source_episode_id": "engine_run",
   "generated_by": "Mythology Forge",
-  "title": "The Origin of the Impossible Map",
-  "topic": "The Origin of the Impossible Map",
-  "derived_from": {
-    "bundle": "input/episode_bundle/bundle.json",
-    "metadata": "input/episode_bundle/metadata.json",
-    "script": "input/episode_bundle/script.txt",
-    "scene_prompts": "input/episode_bundle/scene_prompts.json"
-  },
-  "input_summary": {
-    "series": "Hidden Archive",
-    "tags": [
-      "mythology",
-      "mystery",
-      "archive",
-      "map"
-    ],
-    "script_length_chars": 115,
-    "scene_prompt_count": 3
-  },
-  "scene_summary": [
-    {
-      "scene_id": "scene_01",
-      "prompt": "ancient archive vault with a glowing impossible map, cinematic lighting",
-      "narration": "A map was found where no map should exist."
-    },
-    {
-      "scene_id": "scene_02",
-      "prompt": "close-up of brittle parchment with strange sigils",
-      "narration": "The parchment carried markings unlike any official chart."
-    },
-    {
-      "scene_id": "scene_03",
-      "prompt": "historian in shadow studying map at stone table",
-      "narration": "Experts could not agree where it came from."
-    }
-  ],
   "paths": {
-    "final_video": "final_video.mp4",
+    "video": "final_video.mp4",
     "thumbnail": "thumbnail.png",
-    "scene_frames_dir": "scene_frames",
-    "teaser_clips_dir": "teaser_clips"
-  },
-  "counts": {
-    "scene_frames": 3,
-    "teaser_clips": 3
+    "scene_frames": "scene_frames",
+    "teaser_clips": "teaser_clips",
+    "scene_asset_map": "scene_asset_map.json"
   }
 }

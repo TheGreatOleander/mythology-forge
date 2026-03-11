@@ -1,6 +1,8 @@
 [
   {
     "scene_id": "scene_01",
+    "frame": "scene_frames/scene_01.png",
+    "teaser_clip": "teaser_clips/teaser_01_scene_01.mp4",
     "prompt": "generated scene",
     "narration": "Tonight we investigate The Origin of the Impossible Map. Researchers recently uncovered evidence that challenges known e"
   }

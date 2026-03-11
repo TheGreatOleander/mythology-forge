@@ -1,0 +1,12 @@
+
+# --- add near the top of forge.py ---
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--import_video", help="Import manual video into forge")
+parser.add_argument("--title", help="Title for manual import")
+args = parser.parse_args()
+
+if args.import_video:
+    from ingest.manual_ingest import create_bundle
+    create_bundle(args.import_video, args.title or "Manual Import", os.getcwd())
