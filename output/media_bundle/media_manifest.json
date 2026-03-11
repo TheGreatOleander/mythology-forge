@@ -1,0 +1,9 @@
+{
+  "bundle_version": "1.0",
+  "source_episode_id": "ep_0001",
+  "generated_by": "Mythology Forge",
+  "paths": {
+    "final_video": "final_video.mp4",
+    "thumbnail": "thumbnail.png"
+  }
+}

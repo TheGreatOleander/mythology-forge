@@ -1,0 +1,10 @@
+{
+  "bundle_version": "1.0",
+  "project": "Mythology Engine",
+  "episode_id": "ep_0001",
+  "title": "The Origin of the Impossible Map",
+  "paths": {
+    "script": "script.txt",
+    "metadata": "metadata.json"
+  }
+}
