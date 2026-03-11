@@ -1,0 +1,12 @@
+{
+  "bundle_version": "1.0",
+  "generated_by": "Mythology Forge",
+  "shorts": [
+    {
+      "short_id": "short_01_scene_01",
+      "source_scene": "scene_01",
+      "path": "shorts_bundle/short_01_scene_01.mp4",
+      "platform_targets": ["youtube_shorts", "tiktok", "instagram_reels"]
+    }
+  ]
+}
