@@ -1,0 +1,17 @@
+[
+  {
+    "scene_id": "scene_01",
+    "prompt": "ancient archive vault with a glowing impossible map, cinematic lighting",
+    "narration": "A map was found where no map should exist."
+  },
+  {
+    "scene_id": "scene_02",
+    "prompt": "close-up of brittle parchment with strange sigils",
+    "narration": "The parchment carried markings unlike any official chart."
+  },
+  {
+    "scene_id": "scene_03",
+    "prompt": "historian in shadow studying map at stone table",
+    "narration": "Experts could not agree where it came from."
+  }
+]

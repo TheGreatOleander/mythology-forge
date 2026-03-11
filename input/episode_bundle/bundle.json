@@ -3,8 +3,11 @@
   "project": "Mythology Engine",
   "episode_id": "ep_0001",
   "title": "The Origin of the Impossible Map",
+  "topic": "The Origin of the Impossible Map",
   "paths": {
     "script": "script.txt",
-    "metadata": "metadata.json"
+    "metadata": "metadata.json",
+    "scene_prompts": "scene_prompts.json",
+    "episode_plan": "episode_plan.json"
   }
 }

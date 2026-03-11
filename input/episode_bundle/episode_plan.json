@@ -1,0 +1,10 @@
+{
+  "hook": "A map was found where no map should exist.",
+  "beats": [
+    "introduce impossible discovery",
+    "show archive location",
+    "focus on sigils",
+    "raise origin question"
+  ],
+  "target_duration_sec": 180
+}
