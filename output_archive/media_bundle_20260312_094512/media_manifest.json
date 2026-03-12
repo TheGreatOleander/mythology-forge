@@ -1,0 +1,15 @@
+{
+  "bundle_version": "1.0",
+  "source_episode_id": "engine_run",
+  "generated_by": "Mythology Forge",
+  "used_real_video": false,
+  "used_real_thumbnail": false,
+  "ffmpeg_available": true,
+  "paths": {
+    "video": "final_video.mp4",
+    "thumbnail": "thumbnail.png",
+    "scene_frames": "scene_frames",
+    "teaser_clips": "teaser_clips",
+    "scene_asset_map": "scene_asset_map.json"
+  }
+}

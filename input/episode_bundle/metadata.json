@@ -5,5 +5,8 @@
     "mythology",
     "story"
   ],
-  "tone": "documentary"
+  "tone": "documentary",
+  "has_real_frame": true,
+  "has_real_video": true,
+  "has_real_audio": true
 }
