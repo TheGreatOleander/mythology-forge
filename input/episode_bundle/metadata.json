@@ -8,5 +8,5 @@
   "tone": "documentary",
   "has_real_frame": true,
   "has_real_video": true,
-  "has_real_audio": true
+  "has_real_audio": false
 }
